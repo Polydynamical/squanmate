@@ -1,2 +1,0 @@
-window.l;
-window.j;
